@@ -1,15 +1,18 @@
 /* Write your CSS here! */
-*{
+/**{
     margin: 20px;
     padding: 0;
     font-family:Arial, Helvetica, sans-serif ;  
-}
+}*/
+/*
 .container {
-    margin:0 auto; /* this will center the page */
-    width: 1200px; /*  use your width here */
+    margin:0 auto; 
+    width: 1200px; 
     border:12px tomato;
     border-style: groove;
  }
+ */
+
 header{
     background-color: bisque;
 }
